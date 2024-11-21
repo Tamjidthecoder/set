@@ -1,0 +1,8 @@
+set=set([1,23,4,55,6])
+print(set,"\n")
+num_set=set([0,1,2,3,4,5])
+print("Original set: ")
+print(num_set)
+num_set.pop()
+print("After removing first element")
+print(num_set,"\n")
